@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xs77ZHRUz3vyVO0/pmbZVfrXFBVVQ0jF9nNY2ieWik1FFTxSxE8Cy0ylBTNOH3AV6NlYE5JIcBRc/a6BkyAaJw==",
+  "dgSpecHash": "YW5yZb0xUzt071I0WiMjCwJ6jfzOPaORHSHJ1WXMkeHL0Xb0juvhpeefnHsfp/X/BSTeHXXHj0XwsKOlACTT3w==",
   "success": true,
   "projectFilePath": "C:\\Users\\himanshu.y.sharma\\Desktop\\FreshFood\\FreshFood\\FreshFood\\FreshFood.csproj",
   "expectedPackageFiles": [
@@ -178,11 +178,7 @@
     "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
-    "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
-    "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
-    "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+    "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

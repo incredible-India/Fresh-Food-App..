@@ -11,5 +11,8 @@ namespace FreshFood.Repository
         public int DeleteFoodById(int id);
         public veg EditFoodById();
         public int DeleteAllFood(int id);
+        //for the view components
+
+        public Task<List<veg>> GetTopVegFood();
     }
 }

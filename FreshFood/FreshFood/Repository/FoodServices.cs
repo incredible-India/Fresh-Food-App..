@@ -63,5 +63,13 @@ namespace FreshFood.Repository
         {
             throw new NotImplementedException();
         }
+
+
+        //for the components
+
+        public async Task<List<veg>> GetTopVegFood()
+        {
+            return _foodContext.Foods.Take(4).ToList();
+        }
     }
 }
